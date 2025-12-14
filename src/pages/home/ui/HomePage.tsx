@@ -8,6 +8,12 @@ export function HomePage() {
             href: '/47',
             color: 'primary' as const,
         },
+        {
+            id: 'SL',
+            description: 'Ckbzybt',
+            href: '/SL',
+            color: 'primary' as const,
+        },
     ];
 
     return (
